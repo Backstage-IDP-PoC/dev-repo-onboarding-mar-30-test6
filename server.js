@@ -6,7 +6,7 @@ const server = http.createServer((req, res) => {
     <body style="background:white;font-family:Arial;text-align:center;margin-top:40px;">
       <h1 style="color:blue;">Welcome to GSPANN Self Service Portal!</h1>
       <p style="color:gray;font-size:22px;">
-        Empowering Developers with CI/CD Automation in there existing GitHub Repositories 🚀
+        Drive Faster Releases, Better Quality, and Business Growth with CI/CD Automation in Developers Existing GitHub Repositories 
       </p>
     </body>
   `);
